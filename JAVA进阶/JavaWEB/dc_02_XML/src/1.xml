@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 根元素 -->
+<hello>
+	大家好
+	<a>嘻嘻</a>
+	<!-- 转义字符 -->
+	<b>&gt;&lt;</b>
+	<!-- CDATA区 -->
+	<![CDATA[
+	3>=3
+	]]>
+</hello>
+
+

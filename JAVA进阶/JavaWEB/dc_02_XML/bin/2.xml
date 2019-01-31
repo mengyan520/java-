@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 内部 -->
+<!-- <!DOCTYPE web-app[
+     
+]> -->
+<!-- 外部本地 -->
+<!-- <!DOCTYPE web-app SYSTEM "xx.dtd" [
+     
+]> -->
+<!-- 外部 --><!-- 
+<!DOCTYPE web-app PUBLIC "http://xx.com/dtd/xx.dtd" [
+     
+]> -->
